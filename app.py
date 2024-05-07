@@ -42,6 +42,12 @@ def evaluate_similarity(reference_answer, candidate_answer):
     
     return completion_text
 
+
+
+@app.route('/', methods=['GET'])
+def index():
+    return jsonify(message='Welcome to Interview AI!')
+
 @app.route('/evaluate', methods=['POST'])
 def evaluate():
     try:
