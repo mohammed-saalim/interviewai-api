@@ -21,6 +21,7 @@ def evaluate():
         sent_question_ids = data.get('sent_question_ids', [])
         candidate_answers = data.get('candidate_answers', {})
         questions = data.get('questions', {})
+        print(sent_question_ids, candidate_answers, questions)
 
         responses = {}
         for question_id in sent_question_ids:
