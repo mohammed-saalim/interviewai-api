@@ -39,19 +39,13 @@ git push heroku master
 
 
 ## Front-end Repository
-The front-end React application that interacts with this API is hosted separately. You can find the repository here: [AI Interview UI](https://github.com/mohammed-saalim/orahacks-chat-interview-ui)
+The front-end React application that interacts with this API is hosted separately. You can find the repository here: [AI Interview UI](https://github.com/mohammed-saalim/interviewai-ui)
 
 ## Contributions
 We welcome contributions to this project. If you have suggestions or improvements, please fork the repository and submit a pull request.
 
-## Showcasing
-The project was showcased at OraHacks "Back to the Future" event. Check out the LinkedIn post about this event here. [here](https://www.linkedin.com/posts/orahacks_orahacks-back-to-the-future-was-an-action-ugcPost-7188349494508371968-F9QR?utm_source=share&utm_medium=member_desktop)
-
 
 ## Screenshots
-
-
-![WhatsApp Image 2024-05-15 at 12 20 48 AM](https://github.com/mohammed-saalim/orahacks-chat-interview-ui/assets/53993039/0898629d-c611-46a4-91ce-c8791a4ee173)
 
 
 
